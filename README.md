@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 1. Run the Streamlit app by executing the following command in your terminal:
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
 2. Upload your WhatsApp chat file through the sidebar.
 3. Select a user to analyze or choose “Overall” for group-wide statistics.
